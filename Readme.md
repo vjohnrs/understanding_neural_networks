@@ -13,7 +13,7 @@ Applying Machine Learning to a problem involves three big stages: 1) Preparing D
 Preparing Data:
 
 
-> # Vocabulary (very limited)
+```# Vocabulary (very limited)
 vocabulary = ["happy", "sad", "good", "bad", "great", "terrible", "annoyed", "irritated", "fantastic"]
 
 # Sentiment labels
@@ -34,7 +34,7 @@ training_data = [
     ("I feel irritated from the smell", "negative"),    
     ("car ride was fantastic", "positive")
 ]
-
+```
 
 
 
